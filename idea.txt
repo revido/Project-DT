@@ -1,0 +1,32 @@
+Building sentences.
+
+Use XMind
+
+What does DT know?
+-) How sentences are formed.
+
+How does DT form sentences?
+-) Create dictionary and assign basic properties objects.
+	#) House: Big
+	#) Fly: small
+	#) Fly: fast
+	#) ...
+
+-) DT inferes sentences based on given words.
+	#) Given: Fly
+		+) Fly is small	
+		+) Fly is fast 
+		+) ...
+	#) Given Fly, annoying
+		+) Fly buzz loudly.
+		+) ...
+
+-) At first, simple sentence with only one clause should DT form.
+	#) "The door opened."
+	#) "Jill reads."
+
+-) The words should be random at first (to test simple sentences), but should still have meaning (random sentence generator).
+
+-) DT should form compund sentences.
+
+-) DT should form complex sentences.
